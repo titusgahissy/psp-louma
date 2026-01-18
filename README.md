@@ -1,5 +1,5 @@
 # PAYMENT GATEWAYS LOUMA
 
-| Provider                                            | Status     | Note |
-| --------------------------------------------------- | ----------  | ------- |
-| [tabletomarkdown.com](https://tabletomarkdown.com/) | High       | Low     |
+| Provider       | Status     | 
+|--------------- | ----------  |
+| www.pawapay.io | No CAR      | 
