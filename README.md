@@ -9,7 +9,7 @@
 
 ## Contact Message
 
-Hello PaySika Team,
+Hello XXXX Team,
 
 I represent a licensed e-commerce company operating nationwide in the Central African Republic.
 
