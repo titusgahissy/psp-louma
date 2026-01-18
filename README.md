@@ -6,6 +6,10 @@
 - **pawapay.io** - No CAR       
 - **fincra.com** - At this time, Fincra does not offer support for card acquisition or prepaid card processing.
 - **paysika.co** - No feedback
+- **flutterwave.com** - No CAR
+- **paystack.com** - No CAR
+- **paystack.com** - No CAR
+- **airwallex.com** - Pending test
 
 ## Contact Message
 
